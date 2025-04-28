@@ -1,6 +1,7 @@
 # 🎨 simplydesign 디자인 클론 코딩
 
 원본사이트 : https://simplydesign.kr/
+
 **디자인 전문 콘텐츠 플랫폼 Design+를 기반으로 한 심플하고 직관적인 반응형 웹사이트 클론 코딩 프로젝트**
 
 ![image](https://github.com/user-attachments/assets/aa161d11-b700-40de-91cf-6b638dbc2de9)
