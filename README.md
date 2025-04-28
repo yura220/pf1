@@ -1,5 +1,3 @@
-# pf1
-
 # 🎨 simplydesign 디자인 클론 코딩
 
 원본사이트 : https://simplydesign.kr/
